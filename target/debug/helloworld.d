@@ -1,0 +1,1 @@
+/Users/cheryl/Documents/workspace/practice2022/rust-helloworld/target/debug/helloworld: /Users/cheryl/Documents/workspace/practice2022/rust-helloworld/src/borrowing.rs /Users/cheryl/Documents/workspace/practice2022/rust-helloworld/src/main.rs /Users/cheryl/Documents/workspace/practice2022/rust-helloworld/src/structure.rs
