@@ -6,8 +6,10 @@ use std::io;
 use std::ptr::addr_of_mut;
 
 fn main() {
+
     borrowing::borrowing();
     structure::structure();
+
 }
 
 fn variables() {
